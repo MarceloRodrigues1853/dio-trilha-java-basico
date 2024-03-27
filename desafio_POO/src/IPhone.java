@@ -2,46 +2,46 @@
 public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
     @Override
     public void tocar() {
-        // Implementação do método para tocar música
+        System.out.println("Tocando música...");
     }
 
     @Override
     public void pausar() {
-        // Implementação do método para pausar a reprodução
+        System.out.println("Pausando música...");
     }
 
     @Override
     public void selecionarMusica() {
-        // Implementação do método para selecionar uma música
+        System.out.println("Selecionando música...");
     }
 
     @Override
     public void ligar() {
-        // Implementação do método para ligar o telefone
+        System.out.println("Ligando telefone...");
     }
 
     @Override
     public void atender() {
-        // Implementação do método para atender uma chamada
+        System.out.println("Atendendo ligação...");
     }
 
     @Override
     public void iniciarCorreioVoz() {
-        // Implementação do método para iniciar o correio de voz
+        System.out.println("Iniciando correio de voz...");
     }
 
     @Override
     public void exibirPagina() {
-        // Implementação do método para exibir uma página da web
+        System.out.println("Exibindo página da internet...");
     }
 
     @Override
     public void adicionarNovaAba() {
-        // Implementação do método para adicionar uma nova aba de navegação
+        System.out.println("Adicionando nova aba...");
     }
 
     @Override
     public void atualizarPagina() {
-        // Implementação do método para atualizar a página atual
+        System.out.println("Atualizando página...");
     }
 }

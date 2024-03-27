@@ -1,8 +1,7 @@
 # Projeto iPhone DIO trilha Java
 
 ## Introdução
-Este projeto consiste na **implementação** de um **iPhone** em `Java`, com **funcionalidades** 
-de `reprodutor musical`, `aparelho telefônico` e `navegador de internet`.
+Este projeto consiste na **implementação** de um **iPhone** em `Java`, com **funcionalidades** de `reprodutor musical`,   `aparelho telefônico`  e  `navegador de internet`.
 
 ## Estrutura de Arquivos
 
@@ -36,7 +35,7 @@ desafio_POO
 - `atualizarPagina()`: Atualiza a página atual no navegador.
 
 ## Teste de Funcionalidades
-Crie uma classe `Main` com um método `main` para testar a funcionalidade do iPhone.
+classe `Main` com um método `main` para testar a funcionalidade do iPhone.
 
 ```java
 public class Main {
